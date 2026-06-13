@@ -12,6 +12,16 @@ Passionate Full Stack Developer with experience building responsive, scalable, a
 
 ---
 
+## 🌐 Projects
+
+🔗 https://sanskarinternationalschool.vercel.app/
+🔗 https://midpointschool.vercel.app/
+🔗 https://onlinewebtyping.vercel.app
+🔗 https://iiaaya.vercel.app/
+🔗 https://security-web-note.vercel.app/
+
+---
+
 ## 💫 About Me
 
 - 💻 Full Stack Web Developer specializing in MERN Stack
