@@ -72,6 +72,8 @@ Passionate Full Stack Developer with experience building responsive, scalable, a
 
 💼 LinkedIn: https://linkedin.com/in/sujay-singh-74795abc
 
+💼 LinkedIn: https://www.linkedin.com/in/sujay-singh-344151386
+
 🌐 Portfolio: https://sujaysinghportfolio.vercel.app
 
 ---
